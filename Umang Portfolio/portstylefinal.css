@@ -1,0 +1,25 @@
+body{
+	font-size: 30px;
+}
+.image{
+	margin-top: 150px;
+}
+#div1{
+	background-color: white;
+	height: 1000px;
+}
+#div2{
+	background-color: grey;
+	height: 1000px;
+}
+.h1{
+	font-size-adjust: 20px;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
